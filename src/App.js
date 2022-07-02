@@ -4,6 +4,7 @@ import Header from "./component/Header";
 
 import Main from "./component/Main";
 
+// Day la comment
 const total = {
   body: 17,
   hair: 73,
